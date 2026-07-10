@@ -40,7 +40,7 @@ As I said, fortunately for me, my wish was not wrong. At first I studied program
   <h4 align="center">Contact and another</h4>
   <div align="center"> 
 
-  <a href="https://mail.google.com/mail/?view=cm&to=marinmarina2006@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=marilellawn@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40px"/>
   </a>
   <a href="https://open.spotify.com/user/31roy6muodncuoboe7ycdauitcoq?si=e0c571563d4642ba" target="_blank">
