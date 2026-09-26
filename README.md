@@ -14,6 +14,7 @@
 My name is Marina Harutyunyan, and I am currently a student at the Russian-Armenian University.
 My journey into IT started quite spontaneously. When I was around 15, I was taking my exams and thinking about my future profession. I chose IT, even though no one in my family or close circle had ever worked in this field. Despite that, I felt a genuine interest in programming and decided to take a risk. I am very happy that I did.
 
+
 At first, I started studying programming, and later I decided to focus on backend development. I enrolled in a college and graduated with honors, specializing in Backend Development. Now I am 20 years old and continuing my education at university. In the future, I plan to deepen my knowledge, gain more experience, and pursue further education in IT.
 I am quite ambitious and motivated, and I hope that one day I will become an excellent IT specialist.
 </div>
