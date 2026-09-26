@@ -18,7 +18,7 @@ My journey into IT started quite spontaneously. When I was around 15, I was taki
 
 At first, I started studying programming, and later I decided to focus on backend development. I enrolled in a college and graduated with honors, specializing in Backend Development. Now I am 20 years old and continuing my education at university. In the future, I plan to deepen my knowledge, gain more experience, and pursue further education in IT.
 
-I am quite ambitious and motivated, and I hope that one day I will become an excellent IT specialist.
+I am ambitious and motivated, and I hope to become an excellent IT specialist.
 </div>
 </br>
 
