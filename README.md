@@ -11,11 +11,11 @@
 </div>
 
 <div align="justify">
+My name is Marina Harutyunyan, and I am currently a student at the Russian-Armenian University.
+My journey into IT started quite spontaneously. When I was around 15, I was taking my exams and thinking about my future profession. I chose IT, even though no one in my family or close circle had ever worked in this field. Despite that, I felt a genuine interest in programming and decided to take a risk. I am very happy that I did.
 
-My name is Marina Harutyunyan and I am a student `Backend-developer` at the `ITHUB academy`. My dive into this area started spontaneously: closer to 15, when I was taking exams and choosing a future profession, I stopped at IT, although in my circle and family no one had ever done it, I still felt sincere interest in it and risked doing it and actually very happy about it. 
-
-As I said, fortunately for me, my wish was not wrong. At first I studied programming, but then I decided that for the moment `Back-end` would be more interesting for me and I changed my major. Now I’m 19 years old and I am in my fourth year of college, and in the future I am going to go to university to expand my knowledge and get more education. I am quite ambitious and hope that in the future I will be an excellent specialist!
-
+At first, I started studying programming, and later I decided to focus on backend development. I enrolled in a college and graduated with honors, specializing in Backend Development. Now I am 20 years old and continuing my education at university. In the future, I plan to deepen my knowledge, gain more experience, and pursue further education in IT.
+I am quite ambitious and motivated, and I hope that one day I will become an excellent IT specialist.
 </div>
 </br>
 
